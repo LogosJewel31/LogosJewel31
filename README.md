@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @LogosJewel31
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning python
 - 📫 You can contact me thorugh whatsapp (09160997797), or through my mail(logosjewel@gmail.com)
 - 😄 Pronouns: ...She
 - ⚡ Fun fact: ...
